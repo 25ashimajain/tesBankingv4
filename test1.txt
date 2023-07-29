@@ -1,1 +1,2 @@
-This is GIT test 1 file.
+This is GIT test 1 file. New Edition.
+
